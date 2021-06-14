@@ -15,4 +15,4 @@ Luego descomprimimos el ZIP en la carpeta de nuestro servidor web y crearemos un
 *chmod 666 [nombrearchivo]*
 
 Para finalizar la instalación nos dirigiremos a una carpeta con nombre install y seguimos las instrucciones que nos aparecen en pantalla.Y con eso la instalación esta lista para su uso.
-[![Build Status](http://pruebasv2dp.files.wordpress.com/2011/02/adminpak7_012.jpg)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](Captaura.PNG)
