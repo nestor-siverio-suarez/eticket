@@ -1,1 +1,1 @@
-Bienvenido a mis repositorios, como ya dije soy un estudiante de ASIR, actualmente cursando en el I.E.S. Domingo Pérez Minik, cualquiera de los archivos contenidos en este proyecto son de libre uso. Un saludo, y espero que mi trabajo le sea útil.
+Bienvenido a mi repositorio, soy un estudiante de ASIR, actualmente cursando en el I.E.S. Domingo Pérez Minik, cualquiera de los archivos contenidos en este proyecto son de libre uso. Un saludo, y espero que mi trabajo le sea útil.
