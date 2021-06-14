@@ -6,6 +6,7 @@ Para ello podemos ir a la página oficial de [Windows](https://www.youtube.com/r
 [![Build Status](https://docs.microsoft.com/en-us/iis/install/web-platform-installer/web-platform-installer-20-walkthrough/_static/image1.png)](https://travis-ci.org/joemccann/dillinger)
 
 Aparte del PHP y MySQL también deberemos activar los "Internet Information Services (IIS)" en Windows 10, para ello nos dirigiremos al panel de control-programas y dentro seleccionamos la opción de "activar o desactivar las características de Windows". aquí ya prodemos activar las IIS.
+
 [![Build Status](http://pruebasv2dp.files.wordpress.com/2011/02/adminpak7_012.jpg)](https://travis-ci.org/joemccann/dillinger)
 
 ### Instalar eTicket
@@ -14,5 +15,6 @@ Luego descomprimimos el ZIP en la carpeta de nuestro servidor web y crearemos un
 
 *chmod 666 [nombrearchivo]*
 
-Para finalizar la instalación nos dirigiremos a una carpeta con nombre install y seguimos las instrucciones que nos aparecen en pantalla.Y con eso la instalación esta lista para su uso.
+Para finalizar la instalación nos dirigiremos a una carpeta con nombre install y seguimos las instrucciones que nos aparecen en pantalla. Y con eso la instalación esta lista para su uso.
+
 [![Build Status](Captaura.PNG)
